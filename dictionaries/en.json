@@ -1,0 +1,16 @@
+{
+	"common": {
+		"meta": {
+			"title": "Grade Employee Mart | Grade Ltd. | Grade E-Mart",
+			"description": "Grade Ltd. is your tech-enabled solution to rising prices and superfluous middlemen. By eliminating distributors and dealers, we bring you quality products at pocket-friendly prices, ensuring end-to-end digitalization. Whether you`re a B2B partner or part of our employee network, experience transparent pricing in our tech-driven platform."
+		}
+	},
+	"header": {
+		"search": "I’m searching for....",
+		"support": {
+			"number": "+09237 2387 23",
+			"subtitle": "Support 24/7"
+		},
+		"signin": "Sign In"
+	}
+}
